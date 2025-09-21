@@ -1,0 +1,15 @@
+body.dark-mode {
+    background: #11100e;
+    color: #f0e9df;
+}
+
+body.dark-mode .card,
+body.dark-mode .site-footer,
+body.dark-mode .faq-section details {
+    background: rgba(34, 29, 24, 0.92);
+    color: #f0e9df;
+}
+
+body.dark-mode .primary-nav a:hover {
+    background: rgba(196, 166, 121, 0.35);
+}

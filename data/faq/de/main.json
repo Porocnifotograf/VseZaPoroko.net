@@ -1,0 +1,54 @@
+{
+  "categories": [
+    {
+      "id": "wedding-photography",
+      "title": "Hochzeitsfotografie",
+      "items": [
+        {"question": "Wie weit im Voraus sollte ich einen Hochzeitsfotografen buchen?", "answer": "Für beliebte Sommertermine empfehlen wir eine Buchung 12 bis 18 Monate vor dem Hochzeitstag."},
+        {"question": "Bieten Sie auch Hochzeitsfotografie in Österreich an?", "answer": "Ja, wir begleiten Hochzeiten in Kärnten, Salzburg, Wien und den Alpenregionen."},
+        {"question": "Sprechen Sie Deutsch während der Hochzeit?", "answer": "Unser Team spricht fließend Deutsch und Englisch und moderiert Gruppenfotos in beiden Sprachen."},
+        {"question": "Was sind Ihre Preise für eine Hochzeit in Slowenien?", "answer": "Celo-dnevni Reportagen beginnen bei 1.500 EUR und werden individuell angepasst."},
+        {"question": "Können Sie auch in den österreichischen Alpen fotografieren?", "answer": "Wir sind mit alpinen Locations vertraut und koordinieren Genehmigungen sowie Sicherheit."},
+        {"question": "Ist ein After-Wedding-Shooting möglich?", "answer": "Ja, wir planen entspannte Shootings am Wörthersee, in Bled oder auf Alpwiesen."},
+        {"question": "Wie schnell erhalten wir unsere Fotos?", "answer": "Highlights kommen innerhalb von 72 Stunden, die komplette Galerie innerhalb von sechs Wochen."}
+      ]
+    },
+    {
+      "id": "family-photography",
+      "title": "Familienfotografie",
+      "items": [
+        {"question": "Fotografieren Sie Familien auch im Urlaub?", "answer": "Wir begleiten Familienurlaube am Gardasee, in Slowenien oder in den Alpen und erstellen Reisetagebücher."},
+        {"question": "Wie läuft ein Newborn-Shooting ab?", "answer": "Wir bringen mobile Heizgeräte, Requisiten und planen ausreichend Zeit zum Stillen und Kuscheln."},
+        {"question": "Sind Großeltern willkommen?", "answer": "Mehrgenerationen-Portraits sind ein Herzstück unserer Familienreportagen."},
+        {"question": "Gibt es Geschenkgutscheine?", "answer": "Ja, wir versenden hochwertige Gutscheine per Post oder als digitale Überraschung."}
+      ]
+    },
+    {
+      "id": "portrait-photography",
+      "title": "Porträtfotografie",
+      "items": [
+        {"question": "Bieten Sie Business-Headshots an?", "answer": "Wir fotografieren Teams vor Ort, bringen Studiolicht mit und liefern optimierte Dateien für LinkedIn."},
+        {"question": "Gibt es künstlerische Portrait-Serien?", "answer": "Ja, wir erstellen Fine-Art-Serien mit analogen Elementen und individuellen Farblooks."},
+        {"question": "Wie schnell liefern Sie bearbeitete Portraits?", "answer": "Innerhalb von fünf Werktagen, Express-Service innerhalb von 48 Stunden."}
+      ]
+    },
+    {
+      "id": "pricing",
+      "title": "Preise und Pakete",
+      "items": [
+        {"question": "Welche Zahlungsarten akzeptieren Sie?", "answer": "Wir akzeptieren Banküberweisung, Kreditkarte und Ratenzahlung für umfangreiche Produktionen."},
+        {"question": "Ist die Anreise inklusive?", "answer": "In Slowenien ja; für Österreich, Deutschland oder Italien kalkulieren wir transparente Reisekosten."},
+        {"question": "Gibt es Sonderkonditionen für Firmenkunden?", "answer": "Unternehmen erhalten maßgeschneiderte Rahmenverträge mit SLA und Bildrechten."}
+      ]
+    },
+    {
+      "id": "technical",
+      "title": "Technische Informationen",
+      "items": [
+        {"question": "Welche Ausrüstung verwenden Sie?", "answer": "Wir arbeiten mit spiegellosen Vollformatkameras, Festbrennweiten und redundanten Backups."},
+        {"question": "Wie sichern Sie unsere Daten?", "answer": "Sofortige Doppel-Speicherung, Cloud-Backup in der EU und Offline-Archivierung."},
+        {"question": "Unterstützen Sie PWA-Galerien?", "answer": "Ja, die Galerie lässt sich als App installieren, funktioniert offline und erlaubt Favoritenlisten."}
+      ]
+    }
+  ]
+}

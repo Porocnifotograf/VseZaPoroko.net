@@ -1,0 +1,64 @@
+{
+  "categories": [
+    {
+      "id": "wedding-photography",
+      "title": "Wedding photography",
+      "items": [
+        {"question": "How far in advance should we book our wedding photographer?", "answer": "Prime summer weekends are booked 12–18 months ahead, so we recommend securing your date as soon as your venue is confirmed."},
+        {"question": "Do you cover both ceremony and reception?", "answer": "Yes, our full-day collections include preparations, ceremony, portraits and the evening celebration."},
+        {"question": "How many edited photos do we receive?", "answer": "A full wedding story includes 600–900 curated images, delivered in both high-resolution and web-ready formats."},
+        {"question": "Are engagement sessions included?", "answer": "Every signature package features an engagement session to build trust and create beautiful save-the-date visuals."},
+        {"question": "Do you travel for destination weddings?", "answer": "Absolutely. We frequently photograph weddings in Slovenia, Croatia, Italy and the Austrian Alps."},
+        {"question": "Can we customize a package?", "answer": "Our proposals are modular—add rehearsal dinner coverage, drone imagery or next-day sessions as needed."},
+        {"question": "What happens if the weather changes?", "answer": "We prepare alternative locations, carry weather-proof gear and embrace cinematic rainy-day storytelling."},
+        {"question": "Do you offer albums?", "answer": "We design museum-grade albums with archival paper, gilded edges and bespoke cover materials."},
+        {"question": "Are you fluent in English?", "answer": "Yes, we guide international couples through every step in English and provide bilingual questionnaires."},
+        {"question": "Do you provide vendor recommendations?", "answer": "We collaborate with local planners, florists and stylists to curate a seamless destination experience."}
+      ]
+    },
+    {
+      "id": "family-photography",
+      "title": "Family photography",
+      "items": [
+        {"question": "Where do family sessions take place?", "answer": "Choose between our natural-light studio, alpine meadows or your favorite family hideaway."},
+        {"question": "How do you keep children engaged?", "answer": "We schedule sessions around nap times, bring sensory toys and play music tailored to your kids."},
+        {"question": "Do you photograph newborns at home?", "answer": "Yes, we set up a mobile newborn studio with heaters, wraps and soothing white noise."},
+        {"question": "Can we include pets?", "answer": "Pets are always welcome; we allocate buffer time and treats to capture their personalities."},
+        {"question": "When will we receive the gallery?", "answer": "Preview highlights arrive within five days and the full gallery within three weeks."},
+        {"question": "Do you offer gift certificates?", "answer": "Elegant gift boxes with handcrafted vouchers are available for baby showers and anniversaries."}
+      ]
+    },
+    {
+      "id": "portrait-photography",
+      "title": "Portrait photography",
+      "items": [
+        {"question": "What styling support is available?", "answer": "A pre-session consultation covers wardrobe planning, posing guidance and personal branding goals."},
+        {"question": "Do you provide professional makeup?", "answer": "We work with top MUAs who specialize in HD camera-ready looks for any gender."},
+        {"question": "Can you shoot editorial fashion projects?", "answer": "Yes, our team crafts mood boards, sources stylists and manages production timelines."},
+        {"question": "How soon can we get retouched portraits?", "answer": "Standard turnaround is five business days with 48-hour rush delivery available."},
+        {"question": "Is there a location scouting service?", "answer": "We scout cinematic backdrops in Ljubljana, Bled, Trieste and Vienna to fit your vision."}
+      ]
+    },
+    {
+      "id": "pricing",
+      "title": "Pricing and packages",
+      "items": [
+        {"question": "What is required to secure a date?", "answer": "A signed agreement and 30% retainer lock in your coverage; the balance is due after delivery."},
+        {"question": "Do you accept credit cards?", "answer": "We accept bank transfers, major credit cards and wire transfers for international couples."},
+        {"question": "Are travel fees included?", "answer": "Travel within Slovenia is included; bespoke quotes apply for cross-border events."},
+        {"question": "Can we design a bespoke collection?", "answer": "Yes, we create immersive itineraries that combine welcome parties, elopements and post-wedding brunch coverage."},
+        {"question": "Do you offer payment plans?", "answer": "Split payments can be arranged in up to four installments for larger celebrations."}
+      ]
+    },
+    {
+      "id": "technical",
+      "title": "Technical information",
+      "items": [
+        {"question": "What gear do you use?", "answer": "We rely on dual-slot mirrorless cameras, prime lenses and redundant audio recorders."},
+        {"question": "How do you back up our images?", "answer": "Images are duplicated onsite, stored in the cloud and archived on encrypted drives."},
+        {"question": "Do you deliver a PWA gallery?", "answer": "Yes, your gallery is installable on mobile devices, supports favorites and offline viewing."},
+        {"question": "Are you insured?", "answer": "We carry global liability insurance and adhere to GDPR compliance for data handling."}
+      ]
+    }
+  ]
+}

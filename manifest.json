@@ -1,0 +1,17 @@
+{
+  "name": "Fotograf Čarobni trenutki",
+  "short_name": "Čarobni trenutki",
+  "description": "World-class wedding and portrait photography studio based in Slovenia.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF9F6",
+  "theme_color": "#8B7355",
+  "lang": "sl-SI",
+  "icons": [
+    {
+      "src": "https://www.carobni-trenutki.oazaidej.net/fotografiranje/fotografiranje.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

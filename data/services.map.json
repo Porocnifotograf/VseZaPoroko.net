@@ -1,0 +1,30 @@
+{
+  "porocna-fotografija": {
+    "slug": "porocna-fotografija",
+    "keywords": ["poročni fotograf", "poroka fotograf", "wedding photographer"],
+    "tier": "tier1",
+    "targetCities": ["Ljubljana", "Bled", "Maribor", "Koper", "Celje"],
+    "pillarUrl": "/sl/storitve/porocna-fotografija/"
+  },
+  "druzinska-fotografija": {
+    "slug": "druzinska-fotografija",
+    "keywords": ["družinsko fotografiranje", "newborn fotograf", "family photographer"],
+    "tier": "tier1",
+    "targetCities": ["Ljubljana", "Kranj", "Novo mesto"],
+    "pillarUrl": "/sl/storitve/druzinska-fotografija/"
+  },
+  "portretna-fotografija": {
+    "slug": "portretna-fotografija",
+    "keywords": ["portretni fotograf", "boudoir fotograf", "portrait photographer"],
+    "tier": "tier1",
+    "targetCities": ["Ljubljana", "Maribor", "Graz", "Trieste"],
+    "pillarUrl": "/sl/storitve/portretna-fotografija/"
+  },
+  "komercialna-fotografija": {
+    "slug": "komercialna-fotografija",
+    "keywords": ["reklamna fotografija", "advertising photographer"],
+    "tier": "tier2",
+    "targetCities": ["Ljubljana", "Zagreb", "Milano"],
+    "pillarUrl": "/sl/storitve/komercialna-fotografija/"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "categories": [
+    {
+      "id": "wedding-photography",
+      "title": "Vjenčano fotografiranje",
+      "items": [
+        {"question": "Koliko ranije trebamo rezervirati fotografa?", "answer": "Najpopularniji datumi rezerviraju se 12 mjeseci unaprijed, a za ljetne vikende i do 18 mjeseci."},
+        {"question": "Fotografirate li i crkvene i civilne obrede?", "answer": "Da, dokumentiramo cijeli dan: pripreme, ceremonije, portrete i proslavu."},
+        {"question": "Koliko fotografija dobivamo?", "answer": "Za cjelodnevno vjenčanje isporučujemo 600–900 profesionalno obrađenih fotografija."},
+        {"question": "Putujete li na destinacijska vjenčanja u Hrvatskoj?", "answer": "Specijalizirani smo za Istru, Kvarner i Dalmaciju uz lokalne partnere."},
+        {"question": "Je li uključen engagement session?", "answer": "U Signature paketima uključujemo predvjenčano fotografiranje na romantičnoj lokaciji."},
+        {"question": "Možemo li dodati snimatelja?", "answer": "Surađujemo s timom video snimatelja i možemo ponuditi zajednički foto-video paket."},
+        {"question": "Kako rješavate loše vrijeme?", "answer": "Uvijek imamo rezervne lokacije, mobilna rasvjetna rješenja i zaštitu za opremu."},
+        {"question": "Radite li albume?", "answer": "Da, izrađujemo ručno vezane albume s talijanskom kožom i personaliziranim dizajnom."}
+      ]
+    },
+    {
+      "id": "family-photography",
+      "title": "Obiteljsko fotografiranje",
+      "items": [
+        {"question": "Gdje održavate obiteljske sessione?", "answer": "Fotografiramo u prirodi, u vašem domu ili u našem studiju s prirodnim svjetlom."},
+        {"question": "Kako pripremiti djecu?", "answer": "Šaljemo vodič s igrama i savjetima te planiramo pauze za osvježenje."},
+        {"question": "Radite li newborn u kućnom okruženju?", "answer": "Da, donosimo rekvizite, grijače i stvaramo sigurno, ugodno okruženje."},
+        {"question": "Možemo li uključiti baku i djeda?", "answer": "Naravno, multigeneracijske fotografije su prekrasna uspomena."},
+        {"question": "Kada dobivamo fotografije?", "answer": "Prvi pregled stiže kroz pet dana, a kompletna galerija u tri tjedna."}
+      ]
+    },
+    {
+      "id": "portrait-photography",
+      "title": "Portretno fotografiranje",
+      "items": [
+        {"question": "Imate li stilističke konzultacije?", "answer": "Organiziramo online poziv na kojem biramo styling, lokaciju i atmosferu."},
+        {"question": "Nudite li profesionalnu šminku?", "answer": "Surađujemo s vizažisticama specijaliziranim za foto i video produkcije."},
+        {"question": "Možete li fotografirati lifestyle kampanju?", "answer": "Da, planiramo moodboard, raspored i produkcijski tim prema cilju kampanje."},
+        {"question": "Koliko brzo isporučujete retuširane portrete?", "answer": "Standardni rok je pet radnih dana, uz mogućnost ekspres usluge."}
+      ]
+    },
+    {
+      "id": "pricing",
+      "title": "Cijene i paketi",
+      "items": [
+        {"question": "Koji je iznos akontacije?", "answer": "Rezervacija je potvrđena uplatom 30 % iznosa, ostatak se plaća po isporuci."},
+        {"question": "Prihvaćate li kartice?", "answer": "Da, nudimo kartično plaćanje, bankovni transfer i plaćanje na rate."},
+        {"question": "Jesu li putni troškovi uključeni?", "answer": "Za vjenčanja u Hrvatskoj obračunavamo transparentne putne troškove prema lokaciji."},
+        {"question": "Postoje li posebne ponude za više usluga?", "answer": "Za višednevne proslave i kombinaciju foto + video kreiramo personalizirane popuste."}
+      ]
+    },
+    {
+      "id": "technical",
+      "title": "Tehničke informacije",
+      "items": [
+        {"question": "Kakvu opremu koristite?", "answer": "Radimo s mirrorless kamerama visoke rezolucije, prime objektivima i sigurnosnim backupom."},
+        {"question": "Gdje se pohranjuju fotografije?", "answer": "Podatke pohranjujemo na kriptirane diskove, cloud i fizičke arhive."},
+        {"question": "Imate li PWA galeriju?", "answer": "Da, galerija radi offline, omogućava favorit listu i brzi download."},
+        {"question": "Govori li tim hrvatski?", "answer": "Da, tečno komuniciramo na hrvatskom jeziku i poznajemo lokalne običaje."}
+      ]
+    }
+  ]
+}

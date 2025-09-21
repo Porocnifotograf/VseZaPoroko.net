@@ -1,0 +1,74 @@
+{
+  "categories": [
+    {
+      "id": "wedding-photography",
+      "title": "Poročna fotografija",
+      "items": [
+        {"question": "Kako daleč vnaprej morava rezervirati poročnega fotografa?", "answer": "Priporočava rezervacijo vsaj 12 mesecev vnaprej za najbolj priljubljene termine, poleti pa so datumi zasedeni tudi 18 mesecev prej."},
+        {"question": "Ali fotografirate tudi civilne in cerkvene obrede?", "answer": "Da, pokrivava celoten poročni dan, vključno s civilnimi, cerkvenimi in simboličnimi obredi."},
+        {"question": "Koliko fotografij prejmeva po poroki?", "answer": "Za celodnevno poroko dostaviva med 600 in 900 skrbno obdelanih fotografij v visoki ločljivosti."},
+        {"question": "Ali nudite tudi predporočno fotografiranje?", "answer": "V vsakem paketu ponujava predporočno fotografiranje, ki nam pomaga spoznati vajin stil in želje."},
+        {"question": "Kako hitro po poroki prejmeva galerijo?", "answer": "Prve izbrane fotografije prejmete v 72 urah, celotno galerijo pa v 6 tednih."},
+        {"question": "Fotografirate destinacijske poroke?", "answer": "Specializirava se za destinacijske poroke v Sloveniji, na hrvaški obali, v severni Italiji in v avstrijskih Alpah."},
+        {"question": "Ali nudite video snemanje?", "answer": "Sodelujemo s preverjenimi video partnerji in lahko organiziramo celoten foto-video paket."},
+        {"question": "Kako poteka vajin stil fotografiranja?", "answer": "Združuje dokumentarni pristop, nežne portrete in umetniško obdelavo s poudarkom na pripovedovanju zgodbe."},
+        {"question": "Ali lahko prilagodiva paket svojim potrebam?", "answer": "Seveda, vsako ponudbo prilagodimo glede na urnik, lokacijo in posebne želje."},
+        {"question": "Kaj se zgodi v primeru dežja?", "answer": "Vedno pripravimo plan B z nadomestnimi lokacijami in dodatno razsvetljavo za notranje prostore."},
+        {"question": "Ali ponujate fotoknjige in printe?", "answer": "Izdelujemo personalizirane fotoknjige, umetniške printne zbirke in galerijske okvirje."},
+        {"question": "S kom sodelujete pri porokah na Bledu?", "answer": "Z lokalnimi ponudniki ladjic, cvetličarjev in wedding plannerjev, da ustvarimo celovito izkušnjo."}
+      ]
+    },
+    {
+      "id": "family-photography",
+      "title": "Družinska fotografija",
+      "items": [
+        {"question": "Ali lahko fotografiranje izvedemo v studiu ali v naravi?", "answer": "Da, na voljo sta oba pristopa, pomagava izbrati lokacijo glede na letni čas."},
+        {"question": "Kako pripravimo otroke na fotografiranje?", "answer": "Pošljemo vodič z igrami in nasveti, poskrbiva za sproščeno vzdušje in prilagodljive premore."},
+        {"question": "Kaj vključuje newborn fotografiranje?", "answer": "Prinesemo profesionalne rekvizite, poskrbimo za varnost in prilagodimo potek ritmu dojenčka."},
+        {"question": "Koliko časa traja družinsko fotografiranje?", "answer": "Navadno med 60 in 90 minut, da ujamemo spontana družinska razpoloženja."},
+        {"question": "Ali lahko vključimo stare starše?", "answer": "Z veseljem vključimo več generacij in ustvarimo družinsko dediščino."},
+        {"question": "Ali ponujate stilistko ali vizualno svetovanje?", "answer": "Da, sodelujemo s stilistko, ki pomaga pri izboru oblačil in usklajevanju barv."},
+        {"question": "Kako dostavimo fotografije?", "answer": "Digitalno galerijo dopolnimo z ročno izbranimi printi in opcijskimi albumi."},
+        {"question": "Ali imate darilne bone?", "answer": "Na voljo so elegantni darilni paketi za rojstva, obletnice in praznike."}
+      ]
+    },
+    {
+      "id": "portrait-photography",
+      "title": "Portretna fotografija",
+      "items": [
+        {"question": "Kakšen je vaš pristop k portretnim seansam?", "answer": "Združujemo profesionalno osvetlitev, kreativno usmerjanje in psihološko podporo za samozavestne izraze."},
+        {"question": "Ali nudite profesionalno ličenje?", "answer": "Sodelujemo z vizualnimi umetnicami, ki pripravijo brezhiben make-up za foto in video."},
+        {"question": "Ali lahko fotografiranje izvedemo na lokaciji podjetja?", "answer": "Da, prinesemo mobilni studio z ozadji in lučmi, da optimiziramo čas ekipe."},
+        {"question": "Kaj vključuje boudoir fotografiranje?", "answer": "Diskretno okolje, stilistko perila, več stilov osvetlitve in posvet o poziranju."},
+        {"question": "Ponujate tudi umetniške portrete?", "answer": "Ustvarjamo unikate s filmskim pristopom, ročno koloriramo in tiskamo na art papir."},
+        {"question": "Kako hitro prejmem portretne fotografije?", "answer": "Standardni rok je 7 delovnih dni, na voljo je tudi 48-urna ekspres dostava."}
+      ]
+    },
+    {
+      "id": "pricing",
+      "title": "Cene in paketi",
+      "items": [
+        {"question": "Ali so cene fleksibilne glede na sezono?", "answer": "Da, uporabljamo sezonske faktorje in ponudimo personalizirano ponudbo glede na termin."},
+        {"question": "Katere načine plačila sprejemate?", "answer": "Bančno nakazilo, kartice preko varnega POS sistema in delno plačilo v dveh obrokih."},
+        {"question": "Ali je potrebna akontacija?", "answer": "Da, rezervacijo potrdimo z 30 % akontacijo, preostanek se poravna po dogodku."},
+        {"question": "Kaj vključujejo premium paketi?", "answer": "Dodatne ure fotografiranja, umetniške albume, story-driven slideshow in PWA galerijo."},
+        {"question": "Ali ponujate popuste za delavnice ali več dogodkov?", "answer": "Za večdnevne dogodke in kombinirane storitve pripravimo posebne ponudbe."},
+        {"question": "Imate cenik na spletu?", "answer": "Na spletni strani je interaktivni konfigurator, ki prikaže okvirne cene glede na potrebe."},
+        {"question": "Ali je v ceno vključena potnina?", "answer": "Znotraj Slovenije je vključena, za tujino pripravimo transparentno kalkulacijo."},
+        {"question": "Kako poteka izdaja računa?", "answer": "Po zaključenem projektu prejmete elektronski račun s podrobnim povzetkom storitev."}
+      ]
+    },
+    {
+      "id": "technical",
+      "title": "Tehnične informacije",
+      "items": [
+        {"question": "S katero opremo fotografirate?", "answer": "Uporabljamo profesionalne mirrorless kamere z dvojnim zapisom in svetlobnimi fiksnimi objektivi."},
+        {"question": "Ali imate varnostne kopije?", "answer": "Vsako fotografijo varnostno kopiramo na tri lokacije in v šifrirano oblačno hrambo."},
+        {"question": "Kako deluje PWA galerija?", "answer": "Stranke prejmejo galerijo, ki deluje tudi brez povezave, z možnostjo deljenja in izbire priljubljenih fotografij."},
+        {"question": "Ali imate zavarovanje odgovornosti?", "answer": "Da, zavarovanje pokriva škodo na lokacijah, opremi in odgovornost do tretjih oseb."},
+        {"question": "Kako zagotovite skladnost z GDPR?", "answer": "Skrbimo za privolitve, šifrirane prenose in transparentne politike hrambe podatkov."},
+        {"question": "Ali govorite angleško in nemško?", "answer": "Da, tekoče komuniciramo v angleščini, nemščini in hrvaščini."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "base": {
+    "wedding_full_day": 1500,
+    "wedding_destination": 2800,
+    "family_studio": 250,
+    "portrait_classic": 180,
+    "corporate_headshot": 190,
+    "product_packshot": 35
+  },
+  "packages": [
+    {
+      "id": "wedding_story",
+      "name": "Poročna zgodba",
+      "includes": ["Celo-dnevno fotografiranje", "Predporočna seja", "60-min posvet"],
+      "price": 1890
+    },
+    {
+      "id": "family_legacy",
+      "name": "Družinska dediščina",
+      "includes": ["90-min snemanje", "10 premium printov", "Online galerija"],
+      "price": 420
+    },
+    {
+      "id": "brand_elevate",
+      "name": "Brand Elevate",
+      "includes": ["Corporate portreti", "Lifestyle vsebine", "LinkedIn optimizacija"],
+      "price": 1350
+    }
+  ]
+}

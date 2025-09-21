@@ -1,0 +1,54 @@
+{
+  "categories": [
+    {
+      "id": "wedding-photography",
+      "title": "Fotografia matrimoniale",
+      "items": [
+        {"question": "Quanto tempo prima dobbiamo prenotare il fotografo?", "answer": "Per i fine settimana estivi consigliamo di prenotare 12 mesi prima; per i matrimoni di lusso anche 18 mesi."},
+        {"question": "Realizzate servizi sia civili che religiosi?", "answer": "Sì, raccontiamo l'intera giornata: preparativi, cerimonia, ricevimento e festa."},
+        {"question": "Quante fotografie riceviamo?", "answer": "Per un matrimonio completo consegniamo 600–900 immagini curate in alta risoluzione."},
+        {"question": "Siete disponibili per matrimoni sul Lago di Bled o in Istria?", "answer": "Collaboriamo con wedding planner locali e coordiniamo logistica, pernottamenti e permessi."},
+        {"question": "Offrite sessioni engagement?", "answer": "I pacchetti premium includono una sessione engagement in location iconiche come Venezia o Trieste."},
+        {"question": "Potete creare album artigianali?", "answer": "Sì, stampiamo album fine art con carta cotone, copertine in pelle italiana e goffratura personalizzata."},
+        {"question": "Parlate italiano durante l'evento?", "answer": "Il nostro team parla italiano e inglese per gestire ospiti internazionali."}
+      ]
+    },
+    {
+      "id": "family-photography",
+      "title": "Fotografia famiglia",
+      "items": [
+        {"question": "Dove si svolgono le sessioni familiari?", "answer": "Proponiamo vigneti sloveni, ville storiche a Trieste o il vostro giardino privato."},
+        {"question": "Quanto dura una sessione?", "answer": "Circa 90 minuti, con pause dedicate ai bambini e scenografie naturali."},
+        {"question": "Avete buoni regalo?", "answer": "Creiamo cofanetti regalo premium per battesimi, anniversari e Natale."},
+        {"question": "Potete combinare foto e video?", "answer": "Sì, collaboriamo con videomaker italiani per creare short film emozionali."}
+      ]
+    },
+    {
+      "id": "portrait-photography",
+      "title": "Fotografia ritratto",
+      "items": [
+        {"question": "Offrite consulenza di stile?", "answer": "Prima dello shooting analizziamo moodboard, palette colori e obiettivi comunicativi."},
+        {"question": "Realizzate servizi boudoir?", "answer": "Sì, in suite private con light design soffuso, make-up artist e styling personalizzato."},
+        {"question": "Quanto tempo serve per la consegna?", "answer": "Gallery digitale pronta entro cinque giorni lavorativi, con opzione express 48 ore."}
+      ]
+    },
+    {
+      "id": "pricing",
+      "title": "Prezzi e pacchetti",
+      "items": [
+        {"question": "Qual è l'acconto richiesto?", "answer": "Il 30% del totale al momento della firma, saldo a consegna servizio."},
+        {"question": "Sono inclusi i viaggi?", "answer": "Per eventi in Slovenia sì; per Italia e Austria calcoliamo preventivi su misura."},
+        {"question": "Offrite pacchetti personalizzati?", "answer": "Creiamo weekend experience con welcome dinner, brunch post-matrimonio e sessione honeymoon."}
+      ]
+    },
+    {
+      "id": "technical",
+      "title": "Informazioni tecniche",
+      "items": [
+        {"question": "Quali attrezzature utilizzate?", "answer": "Mirrorless professionali doppio slot, luci continue e flash off-camera."},
+        {"question": "Come archiviate i file?", "answer": "Backup immediato su SSD, cloud criptato e archiviazione off-site."},
+        {"question": "Avete galleria PWA?", "answer": "Sì, la galleria può essere installata come app e funziona offline."}
+      ]
+    }
+  ]
+}
